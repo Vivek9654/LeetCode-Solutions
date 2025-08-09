@@ -16,6 +16,9 @@ class Solution {
 
         // now i am doing it with dp
 
+
+
+   int 
         int[] dp = new int[n+1];
 
         if(n==1) return 1;
