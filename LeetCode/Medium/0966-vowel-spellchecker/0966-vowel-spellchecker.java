@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     public String[] spellchecker(String[] wordlist, String[] queries) {
         Set<String> exact = new HashSet<>(Arrays.asList(wordlist));
