@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+class Solution {
     public int maxTotalFruits(int[][] fruits, int startPos, int k) {
         int n = fruits.length;
         int left = 0, total = 0, maxFruits = 0;
