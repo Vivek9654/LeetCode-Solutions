@@ -1,3 +1,5 @@
+import java.util.*;
+
 // class Solution {
 //     public int numOfUnplacedFruits(int[] fruits, int[] baskets) {
 //         int n = fruits.length,used=0;
