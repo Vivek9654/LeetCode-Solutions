@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     public long maxSubarrays(int n, int[][] conflictingPairs) {
         for (int[] pair : conflictingPairs) {

@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     public int totalFruit(int[] fruits) {
         int n = fruits.length;
